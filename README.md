@@ -29,10 +29,10 @@ dotnet run
 API will be available at: http://localhost:5138
 ```
 
-| Method | Endpoint                               | Description                |
-| ------ | -------------------------------------- | -------------------------- |
-| GET    | `/api/product`                         | Get all products           |
-| GET    | `/api/product?search=Laptop`           | Search for "Laptop"        |
-| GET    | `/api/product?category=Electronics`    | Filter by category         |
-| GET    | `/api/product?sortBy=price&order=desc` | Sort by price (descending) |
-| GET    | `/api/product/{id}`                    | Get a single product       |
+| Method | Endpoint                            | Description          |
+| ------ | ----------------------------------- | -------------------- |
+| GET    | `/api/product`                      | Get all products     |
+| GET    | `/api/product?search=Laptop`        | Search for "Laptop"  |
+| GET    | `/api/product?category=Electronics` | Filter by category   |
+| GET    | `/api/product?sortBy=price`         | Sort by price        |
+| GET    | `/api/product/{id}`                 | Get a single product |
