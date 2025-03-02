@@ -1,13 +1,13 @@
 # Shop API (.NET Backend)
 
-This is the **backend API** for the online store, built with **.NET Core 7** and **Entity Framework Core**.
+This is the **backend API** for the online store, built with **.NET Core 9** and **Entity Framework Core**.
 
 ## 📌 Features
 
 - RESTful API with **CRUD operations**.
 - **Search, filtering, and sorting** via query parameters.
 - **Entity Framework Core** for database interaction.
-- Supports **SQL Server / PostgreSQL**.
+- Supports **PostgreSQL**.
 
 ## 🛠️ Installation & Setup
 
